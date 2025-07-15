@@ -1,0 +1,6 @@
+{
+  "name": "Netstat Security Analyzer",
+  "description": "A React web application to analyze netstat output for security vulnerabilities. Upload your netstat log file to get a comprehensive report on connections, listening ports, and potential risks.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
