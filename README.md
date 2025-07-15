@@ -1,10 +1,8 @@
 
-# Netstat Security Analyzer
+# Netstat Security Analyzer [![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](link) ![Static Badge](https://img.shields.io/badge/Validation-InProgress-purple) [![License](https://img.shields.io/badge/license-Pending-blue)](LICENSE)
 
 A browser-based, client-side tool to analyze `netstat` output for security insights, powered by React, TypeScript, and the Google Gemini API. Upload your log file to get a comprehensive report on connections, listening ports, local services, and potential risks without your data ever leaving your browser.
 
-![Netstat Security Analyzer UI Screenshot](https://storage.googleapis.com/pr-newsroom-wp/1/2023/05/Gemini_logo_2023.svg)
-*(Image is a placeholder for the app's screenshot)*
 
 ---
 
